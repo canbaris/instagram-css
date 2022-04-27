@@ -1,2 +1,2 @@
 # instagram-css
-Stylus stylesheet to customize intagram better viewability on mobile browsers
+Stylus stylesheet to customize instagram for better viewability on mobile browsers
